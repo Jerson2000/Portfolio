@@ -13,8 +13,8 @@ I graduated from Holy Cross of Davao College, where I earned my Bachelor of Scie
 
 ## Contact Me 
 ::: info Email
+* jersonraydesierto@gmail.com
 * punpunsx00@gmail.com
-* darkcreepy20@gmail.com
 ::::
 ### Discord
 ```discord info Discord
