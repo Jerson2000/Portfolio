@@ -15,7 +15,7 @@ With the ability to view subjects, accountabilities, grades, evaluations, and en
 
 
 ### UI
-| <img src="./portal_login.png" width="200" height="400"/> |  <img src="./portal_home.png" width="200" height="400"/>  |  <img src="./portal_account.png" width="200" height="400"/> | <img src="./portal_setting.png" width="200" height="400"/> |
+| <img src="./public/portal_login.png" width="200" height="400"/> |  <img src="./public/portal_home.png" width="200" height="400"/>  |  <img src="./public/portal_account.png" width="200" height="400"/> | <img src="./public/portal_setting.png" width="200" height="400"/> |
 | ------------- | ------------- | ------------- | ------------- | 
 
 
@@ -41,9 +41,9 @@ Gleammore is your ultimate destination for trendsetting fashion crafted from exq
 
 
 ### UI
-| <img src="./gleammore.png" width="200" height="400"/> |  <img src="./gleammore_2.png" width="200" height="400"/>  |  <img src="./gleammore_3.png" width="200" height="400"/> | <img src="./gleammore_4.png" width="200" height="400"/> |
+| <img src="./public/gleammore.png" width="200" height="400"/> |  <img src="./public/gleammore_2.png" width="200" height="400"/>  |  <img src="./public/gleammore_3.png" width="200" height="400"/> | <img src="./public/gleammore_4.png" width="200" height="400"/> |
 | ------------- | ------------- | ------------- | ------------- | 
-| <img src="./gleammore_5.png" width="200" height="400"/> |  <img src="./gleammore_6.png" width="200" height="400"/>  |  <img src="./gleammore_7.png" width="200" height="400"/> | <img src="./gleammore_8.png" width="200" height="400"/> |
+| <img src="./public/gleammore_5.png" width="200" height="400"/> |  <img src="./public/gleammore_6.png" width="200" height="400"/>  |  <img src="./public/gleammore_7.png" width="200" height="400"/> | <img src="./public/gleammore_8.png" width="200" height="400"/> |
 
 
 
@@ -61,9 +61,9 @@ Payroll and Attendance Systems automate the generation of payroll based on speci
 
 
 ### UI
-| <img src="./payroll.png" width="200" height="400"/> |  <img src="./payroll_2.png" width="200" height="400"/>  |  <img src="./payroll_3.png" width="200" height="400"/> | <img src="./payroll_4.png" width="200" height="400"/> |
+| <img src="./public/payroll.png" width="200" height="400"/> |  <img src="./public/payroll_2.png" width="200" height="400"/>  |  <img src="./public/payroll_3.png" width="200" height="400"/> | <img src="./public/payroll_4.png" width="200" height="400"/> |
 | ------------- | ------------- | ------------- | ------------- | 
-| <img src="./payroll_5.png" width="200" height="400"/> |    |   | |
+| <img src="./public/payroll_5.png" width="200" height="400"/> |    |   | |
 
 
 
@@ -81,9 +81,9 @@ A boarding house rental management system is a software solution designed to str
 
 
 ### UI
-| <img src="./bhrental.png" width="200" height="400"/> |  <img src="./bhrental_2.png" width="200" height="400"/>  |  <img src="./bhrental_3.png" width="200" height="400"/> | <img src="./bhrental_4.png" width="200" height="400"/> |
+| <img src="./public/bhrental.png" width="200" height="400"/> |  <img src="./public/bhrental_2.png" width="200" height="400"/>  |  <img src="./public/bhrental_3.png" width="200" height="400"/> | <img src="./public/bhrental_4.png" width="200" height="400"/> |
 | ------------- | ------------- | ------------- | ------------- | 
-| <img src="./bhrental_5.png" width="200" height="400"/> |  <img src="./bhrental_6.png" width="200" height="400"/>  |  | |
+| <img src="./public/bhrental_5.png" width="200" height="400"/> |  <img src="./public/bhrental_6.png" width="200" height="400"/>  |  | |
 
 
 
