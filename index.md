@@ -4,9 +4,9 @@ layout: home
 hero:
   name: "Jerson Ray "
   text: "Desierto"
-  tagline: An aspiring and passionate software developer eager to learn about new technologies, able to develop innovative applications that could ease things.
+  tagline: I am an enthusiastic and dedicated software developer with a strong passion for exploring new technologies. My goal is to create innovative applications that simplify and enhance everyday tasks.
   image:
-    src: /huhu.png
+    src: /me.JPG
 
   actions:
     - theme: brand

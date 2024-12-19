@@ -21,9 +21,9 @@ I graduated from Holy Cross of Davao College, where I earned my Bachelor of Scie
 punpunsx00
 ```
 
-## [German Stories](https://www.thegermanproject.com/)
+<!-- ## [German Stories](https://www.thegermanproject.com/) -->
 
-### Rotkäppchen (Little Riding Hood)
+<!-- ### Rotkäppchen (Little Riding Hood)
 Es war einmal, inmitten eines dichten Waldes, ein kleines Haus, wo ein hübsches kleines Mädchen namens Rotkäppchen wohnte. Eines sonnigen Tages rief die Mutter sie in die Küche von ihrem kleinen Haus.
 
 "Großmutter ist krank", sagte sie. "Bring ihr diesen Korb mit Kuchen, aber sei sehr vorsichtig! Bleib auf dem Pfad in dem Wald und bleib nicht stehen! Wenn du schnell läufst, wird dir nichts passieren."
@@ -79,7 +79,7 @@ Der Jäger füllte den Magen des Wolfes mit Steinen aus dem Garten und nähte ih
 Rotkäppchens Mutter kam an dem Haus der Großmutter an, als die Sonne unterging. Sie hat sich Sorgen gemacht, als ihre Tochter nicht nach Hause kam. Als sie Rotkäppchen sah, brach sie in Freundentränen aus. "Oh, dir geht es gut!"
 
 Nachdem sie sich noch einmal bei dem Jäger bedankt haben, sind Rotkäppchen und ihre Mutter durch den Wald nach Hause gelaufen.
-Als sie schnell durch den Wald liefen, sagte das kleine Mädchen zu ihrer Mutter: "Wir müssen immer auf dem Pfad bleiben und niemals stehen bleiben. Wenn wir das machen, wird uns nichts passieren."
+Als sie schnell durch den Wald liefen, sagte das kleine Mädchen zu ihrer Mutter: "Wir müssen immer auf dem Pfad bleiben und niemals stehen bleiben. Wenn wir das machen, wird uns nichts passieren." -->
 
 ## More to come ...  
 
