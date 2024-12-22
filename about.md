@@ -5,16 +5,16 @@ outline: deep
 # About Me
 
 ## Introduction
-I am a passionate, adaptable, and creative problem solver adept at navigating change. I demonstrate exibility and
-innovation in diverse environments. My aim is to build a career that oers challenges and growth opportunities to
-enrich my knowledge and skills while contributing my best to the organization I work for.
-I graduated from Holy Cross of Davao College, where I earned my Bachelor of Science in Information Technology. Throughout my studies, I developed a strong foundation in various aspects of IT, including programming, database management, and network security. The rigorous curriculum and hands-on projects allowed me to enhance my technical skills and prepare for a successful career in the ever-evolving field of information technology. I am grateful for the education and experiences I gained at HCDC, which have equipped me to tackle real-world challenges in the tech industry.
+I am a passionate and flexible problem solver who can adapt to change. I am creative and can work well in different environments. My goal is to build a career that offers challenges and growth opportunities, allowing me to learn more and improve my skills while helping the organization I work for.
+I graduated from Holy Cross of Davao College with a Bachelor of Science in Information Technology. During my studies, I learned a lot about IT, including programming, database management, and network security. The challenging courses and hands-on projects helped me develop my technical skills and prepared me for a successful career in the fast-changing field of information technology. I am thankful for the education and experiences I gained at HCDC, which have prepared me to face real-world challenges in the tech industry.
 
 
 ## Contact Me 
 ::: info Email
 * jersonraydesierto@gmail.com
 * punpunsx00@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/jrsn-punpun)
+
 ::::
 ### Discord
 ```discord info Discord
@@ -81,7 +81,7 @@ Rotkäppchens Mutter kam an dem Haus der Großmutter an, als die Sonne unterging
 Nachdem sie sich noch einmal bei dem Jäger bedankt haben, sind Rotkäppchen und ihre Mutter durch den Wald nach Hause gelaufen.
 Als sie schnell durch den Wald liefen, sagte das kleine Mädchen zu ihrer Mutter: "Wir müssen immer auf dem Pfad bleiben und niemals stehen bleiben. Wenn wir das machen, wird uns nichts passieren." -->
 
-## More to come ...  
+## ----  
 
 <!-- ::: details HUHU 😭
 SUICIDDEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE !!!!!!!!!!!!!!!!!!!

@@ -51,6 +51,7 @@ Gleammore is your ultimate destination for trendsetting fashion crafted from exq
 * Javascript
 * Nextjs Framework
 * Supabase - PostgreSQL
+* Tailwind CSS
 
 
 ## Payroll & Attendance System.
@@ -71,6 +72,7 @@ Payroll and Attendance Systems automate the generation of payroll based on speci
 * C#
 * Windows Form (Desktop Application)
 * MS SQL
+* [AntdUI](https://github.com/AntdUI/AntdUI) UI Library
 
 
 ## Boarding House Rental Management System
@@ -93,5 +95,5 @@ A boarding house rental management system is a software solution designed to str
 * MS SQL
 
 
-## More to come .. (lazy to update😆)
+## ----
 
